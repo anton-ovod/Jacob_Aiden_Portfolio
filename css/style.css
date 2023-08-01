@@ -76,7 +76,8 @@ section {
   display: flex;
   align-items: center;
   padding: 0 9%;
-  background: url("/images/home.jpg") no-repeat;
+  background-image: url("/images/home.jpg");
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
