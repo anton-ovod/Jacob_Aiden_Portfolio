@@ -45,15 +45,9 @@ To run the portfolio website locally on your machine, follow these steps:
 
 1. Clone the GitHub repository to your local machine:
    ```
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/anton-ovod/Jacob_Aiden_Portfolio.git
    ```
-
-2. Navigate to the project directory:
-   ```
-   cd your-portfolio
-   ```
-
-3. Open the `index.html` file in your web browser.
+2. Open the `index.html` file in your web browser.
 
 ## Usage
 
