@@ -1,6 +1,6 @@
 # Jacob Aiden - Portfolio Website
 
-![Jacob Aiden Portfolio](link-to-your-portfolio-image)
+![Jacob Aiden Portfolio](./screenshots/prev1.png)
 
 ## Introduction
 
