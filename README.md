@@ -55,9 +55,9 @@ Once the website is loaded, navigate through the different sections to explore J
 
 ## Screenshots
 
-![Screenshot 1](link-to-screenshot1)
-![Screenshot 2](link-to-screenshot2)
-![Screenshot 3](link-to-screenshot3)
+![Screenshot 1](./screenshots/prev2.png)
+![Screenshot 2](./screenshots/prev3.png)
+![Screenshot 3](./screenshots/prev4.png)
 
 ## Contributing
 
