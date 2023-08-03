@@ -65,7 +65,7 @@ Contributions to improve and enhance the portfolio website are always welcome! I
 
 ## License
 
-This project is licensed under the [MIT License](./LICENCE).
+This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for visiting this repository and checking out the Jacob Aiden Portfolio Website! I hope you enjoy exploring the projects and skills showcased here. Feel free to use this project as a reference to showcase your web development skills. Happy coding!
